@@ -1,0 +1,28 @@
+name: theopencanvas
+favicon: null
+layout_spectrum: 0.02972442121244967
+typography_spectrum: 0.15275898831896484
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.31388198444619775
+  lightness: 0.44924266217276454
+  saturation: 0.9405630910769105
+  rhythmicContrast: 0.8275231516454369
+purpose: []

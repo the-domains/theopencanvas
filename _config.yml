@@ -1,7 +1,7 @@
 name: theopencanvas
 favicon: null
 layout_spectrum: 0.02972442121244967
-typography_spectrum: 0.15275898831896484
+typography_spectrum: 0.14341
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.31388198444619775
+  brandStrength: 0.25
   lightness: 0.44924266217276454
   saturation: 0.9405630910769105
   rhythmicContrast: 0.8275231516454369

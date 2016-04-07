@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[the open canvas]]></title>
         <description><![CDATA[the open canvas]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/theopencanvas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Feb 2016 10:02:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Apr 2016 03:06:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/theopencanvas/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5cd39586-71a6-4020-9932-13ea24128f06.jpg">]]></description>
+            <link>https://thegrid.ai/theopencanvas/5d0395c9-e7a4-45e4-a010-ab95fea4e77d/index.html</link>
+            <guid isPermaLink="false">5d0395c9-e7a4-45e4-a010-ab95fea4e77d</guid>
+            <pubDate>Thu, 07 Apr 2016 03:06:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a87762a9-08ab-44bc-bd00-fce3b78189bb.jpg">]]></description>
-            <link>undefined3fb8d090-cc84-454a-9326-781a6022aea4/index.html</link>
+            <link>https://thegrid.ai/theopencanvas/3fb8d090-cc84-454a-9326-781a6022aea4/index.html</link>
             <guid isPermaLink="false">3fb8d090-cc84-454a-9326-781a6022aea4</guid>
             <pubDate>Thu, 04 Feb 2016 10:02:38 GMT</pubDate>
         </item>

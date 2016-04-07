@@ -1,6 +1,6 @@
 name: theopencanvas
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.23963
 typography_spectrum: 0.36969
 title: the open canvas
 cta:
@@ -23,7 +23,7 @@ color:
     - '#2e2e2e'
     - '#cdcdcd'
   brandStrength: 1
-  lightness: 0
+  lightness: 1
   saturation: 0
-  rhythmicContrast: 0.8275231516454369
+  rhythmicContrast: 0
 purpose: []

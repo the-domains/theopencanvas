@@ -1,20 +1,4 @@
-name: theopencanvas
-favicon: null
-layout_spectrum: 0.23963
 typography_spectrum: 0.36969
-title: the open canvas
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000000'
@@ -26,4 +10,24 @@ color:
   lightness: 1
   saturation: 0
   rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.23963
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: theopencanvas
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: toc
+    id: ce093d29-b667-40fd-9bb6-2b09ecf5b396
+    type: content
+favicon: null
+title: the open canvas
 purpose: []

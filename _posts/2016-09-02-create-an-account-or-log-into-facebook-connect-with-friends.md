@@ -1,11 +1,10 @@
 ---
-datePublished: '2016-09-02T04:48:26.921Z'
+datePublished: '2016-09-02T04:49:47.930Z'
 sourcePath: >-
   _posts/2016-09-02-create-an-account-or-log-into-facebook-connect-with-friends.md
 inFeed: true
-isBasedOnUrl: 'https://www.facebook.com/#'
 authors: []
-hasPage: false
+hasPage: true
 keywords: []
 related: []
 author:
@@ -32,7 +31,7 @@ author:
           - 162
           - 198
 via: {}
-dateModified: '2016-09-02T04:48:26.519Z'
+dateModified: '2016-09-02T04:49:47.504Z'
 title: ''
 app_links: []
 publisher: {}
@@ -40,6 +39,7 @@ description: ''
 inLanguage: null
 inNav: false
 starred: false
+url: ce093d29-b667-40fd-9bb6-2b09ecf5b396/index.html
 _context: 'http://schema.org'
 _type: Photograph
 
